@@ -46,6 +46,7 @@ table {
         padding-left: 10px;
     }
     table{
-        width: 80vw
+        width: 80vw;
+        font-size: 18px;
     }
 }
